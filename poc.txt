@@ -110685,6 +110685,7 @@
 ./poc/javascript/mrlegend-typedjs-9ce8be52c13ccb47245170c1207d2908.yaml
 ./poc/javascript/mrlegend-typedjs.yaml
 ./poc/javascript/next-js-cache-poisoning.yaml
+./poc/javascript/next-js.yaml
 ./poc/javascript/nextjs-cve-2020-5284.yaml
 ./poc/javascript/nextjs-middleware-cache.yaml
 ./poc/javascript/nextjs-redirect.yaml
