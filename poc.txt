@@ -172949,6 +172949,7 @@
 ./poc/remote_code_execution/bitpay-checkout-for-woocommerce-9f687dc228a54cf40527d75fb8d70f1d.yaml
 ./poc/remote_code_execution/bitpay-checkout-for-woocommerce.yaml
 ./poc/remote_code_execution/bitpay-checkout-for-woocommerce_1.yaml
+./poc/remote_code_execution/bitrix-esol-excel-rce.yaml
 ./poc/remote_code_execution/bitrix-landing-rce.yaml
 ./poc/remote_code_execution/bitrix-landing-rce_1.yaml
 ./poc/remote_code_execution/bitrixrestorerce.yaml
